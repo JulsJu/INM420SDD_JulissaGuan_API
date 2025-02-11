@@ -1,0 +1,15 @@
+{
+  "name": "inm430-week1",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "lite-server --baseDir=\"nasa\""
+  },
+  "keywords": [],
+  "author": "Julissa Guan",
+  "license": "private",
+  "private":"true",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
